@@ -6,7 +6,7 @@
 📫  If you have questions or requests, you can reach me
     at microttus@gmail.com
 
-🤖  I love robots, and every aspect of crewating them and 
+🤖  I love robots, and every aspect of creating them and 
     make them move. Preferably in a smart way using
     control theory. 
 
