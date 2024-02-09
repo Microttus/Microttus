@@ -1,7 +1,7 @@
 👋 Hi, I’m @Microttus
 
-🎓  I'm a graduate student at University of Agder
-    And have a bachelour in Mechatronics Engineering
+🎓  I'm a graduate student at University of Agder,
+    and have a bachelour in Mechatronics Engineering
 
 📫  If you have questions or requests, you can reach me
     at microttus@gmail.com
@@ -13,9 +13,9 @@
 🦾  I’m currently learning ROS2 to expand my reach for robot
     control as well as haptic control theory.
     
-🦿  In my repostories several easy top use project developed
-    for teaching undergraduates robotic and control thery can
-    be found. These is free to use, and if you do let me know
+🦿  In my repostories several easy to use project developed
+    for teaching undergraduates robotic and control theory can
+    be found. These is free to use, and if you do, please let me know
     for further deveopment and resume.
 
 
