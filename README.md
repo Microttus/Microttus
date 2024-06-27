@@ -1,13 +1,13 @@
 👋 Hi, I’m @Microttus
 
-🎓  I'm a graduate student at University of Agder,
-    and have a bachelour in Mechatronics Engineering
+🎓  I'm a student at University of Agder,
+    and have a M.Sc in Mechatronics Engineering
 
 📫  If you have questions or requests, you can reach me
     at microttus@gmail.com
 
 🤖  I love robots, and every aspect of creating them and 
-    make them move. Preferably in a smart way using
+    making them move. Preferably in a smart way using
     control theory. 
 
 🦾  I’m currently learning ROS2 to expand my reach for robot
