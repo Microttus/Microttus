@@ -1,6 +1,6 @@
 👋 Hi, I’m @Microttus
 
-🎓  I'm a student at University of Agder,
+🎓  I'm a PhD Research Fellow at University of Agder,
     and have a M.Sc in Mechatronics Engineering
 
 📫  If you have questions or requests, you can reach me
