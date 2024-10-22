@@ -10,8 +10,7 @@
     making them move. Preferably in a smart way using
     control theory. 
 
-🦾  I’m currently learning ROS2 to expand my reach for robot
-    control as well as haptic control theory.
+🦾  I’m currently learning Go to expand my language knowledge
     
 🦿  In my repostories several easy to use project developed
     for teaching undergraduates robotic and control theory can
