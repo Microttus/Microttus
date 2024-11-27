@@ -4,7 +4,7 @@
     and have a M.Sc in Mechatronics Engineering
 
 📫  If you have questions or requests, you can reach me
-    at microttus@gmail.com
+    at martino@uia.no
 
 🤖  I love robots, and every aspect of creating them and 
     making them move. Preferably in a smart way using
