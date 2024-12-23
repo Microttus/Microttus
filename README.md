@@ -1,3 +1,7 @@
+# Welcome to IceCube Solutions
+
+![IceCube](icecube_3.txt)
+
 👋 Hi, I’m @Microttus
 
 🎓  I'm a PhD Research Fellow at University of Agder,
