@@ -1,4 +1,4 @@
-# Welcome to IceCube Solutions
+# Welcome to SpaceIce Solutions
 
 ![IceCube](icecube_a.png)
 
